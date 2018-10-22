@@ -10,8 +10,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 #### Set-Up
 - [X] Go to the repository at https://github.com/ScriptEdcurriculum/fanpage
 - [X] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [X] Add, commit, and push your changes
+- [X] Make your site live on gh-pages
 #### HTML
 - [X] Change the header to display the name of the fan page on each html page
 - [X] Link the a tags in the navbar to the correct .html files on each html page
@@ -29,10 +29,10 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 2
 #### CSS
-- [ ] Use flexbox to center your heading. 
-- [ ] Use flexbox to format your navbar.
-- [ ] Use flexbox to format your footer.
-- [ ] Use flexbox to format your gallery page. 
+- [X] Use flexbox to center your heading. 
+- [X] Use flexbox to format your navbar.
+- [X] Use flexbox to format your footer.
+- [X] Use flexbox to format your gallery page. 
 - [ ] Use flexbox to format your about page. 
 
 #### Wrap
